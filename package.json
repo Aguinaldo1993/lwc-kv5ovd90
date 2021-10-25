@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/Aguinaldo1993.lwc-kv5ovd90",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve nL6oG6ncz2bnEhfBwKR7 --open"
+  }
+}
